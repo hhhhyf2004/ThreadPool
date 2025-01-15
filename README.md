@@ -1,2 +1,2 @@
 # ThreadPool
-使用cpp11实现的迷你线程池
+linux下使用 $c$ 实现的迷你线程池
